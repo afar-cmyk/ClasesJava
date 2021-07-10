@@ -38,3 +38,5 @@ de cada ronda preguntar si desea volver a jugar.
 
 [Ejercicio #16](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_16.java):<br>Programa que pida por teclado la fecha de nacimiento de una persona (día, mes, año) y calcule su número de la suerte. El número de la suerte se calcula sumando el día, mes y año de la fecha de nacimiento y a continuación sumando las cifras obtenidas en la suma.
 
+[Ejercicio #17](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_17.java):<br>Programa que calcule el precio de venta de un producto conociendo el precio por unidad (sin IVA) del producto, el número de productos vendidos y el porcentaje de IVA aplicado. Los datos anteriores se leerán por teclado.
+
