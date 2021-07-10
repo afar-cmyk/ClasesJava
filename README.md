@@ -28,3 +28,11 @@ de cada ronda preguntar si desea volver a jugar.
 
 [Ejercicio #11](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_11.java):<br>Implemente un algoritmo que dado un nombre en una variable de tipo cadena, imprima un saludo en consola.
 
+[Ejercicio #12](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_12.java):<br>Implemente un algoritmo que reciba un número por teclado y cuente cuántas cifras (o dígitos) contiene e imprima el mensaje en consola.
+
+[Ejercicio #13](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_13.java):<br>Escribe un programa Java que lee un número entero por teclado y obtiene y muestra por pantalla el doble y el triple de ese número.
+
+[Ejercicio #14](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_14.java):<br>Escribe un programa que lea una cantidad de grados centígrados y la pase a grados Fahrenheit. La fórmula es: F = 32 + ( 9 * C / 5).
+
+[Ejercicio #15](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_15.java):<br>Escribe un programa java que lea una variable de tipo entero y asígnale un valor. A continuación muestra un mensaje indicando si la variable es par o impar. Utiliza el operador condicional ( ? : ) para resolverlo. Ej: “14 es par” o “15 es impar”
+
