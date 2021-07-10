@@ -25,3 +25,14 @@ de cada ronda preguntar si desea volver a jugar.
 [Ejercicio #9](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_09.java):<br> Pide por teclado el nombre, edad y salario y muestra el salario, Si es menor de 16 no tiene edad para trabajar, Entre 19 y 50 años el salario es un 5 por ciento más, Entre 51 y 60 años el salario es un 10 por ciento más, Si es mayor de 60 el salario es un 15 por ciento más.
 
 [Ejercicio #10](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_10.java):<br>Muestra la serie de fibonacci hasta un número pedido por teclado. Por ejemplo, si el número ingresado es el 100, debe imprimir los números 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89.
+
+[Ejercicio #11](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_11.java):<br>Implemente un algoritmo que dado un nombre en una variable de tipo cadena, imprima un saludo en consola.
+
+[Ejercicio #12](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_12.java):<br>Implemente un algoritmo que reciba un número por teclado y cuente cuántas cifras (o dígitos) contiene e imprima el mensaje en consola.
+
+[Ejercicio #13](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_13.java):<br>Escribe un programa Java que lee un número entero por teclado y obtiene y muestra por pantalla el doble y el triple de ese número.
+
+[Ejercicio #14](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_14.java):<br>Escribe un programa que lea una cantidad de grados centígrados y la pase a grados Fahrenheit. La fórmula es: F = 32 + ( 9 * C / 5).
+
+[Ejercicio #15](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_15.java):<br>Escribe un programa java que lea una variable de tipo entero y asígnale un valor. A continuación muestra un mensaje indicando si la variable es par o impar. Utiliza el operador condicional ( ? : ) para resolverlo. Ej: “14 es par” o “15 es impar”
+
