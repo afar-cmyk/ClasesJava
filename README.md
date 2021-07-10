@@ -36,3 +36,5 @@ de cada ronda preguntar si desea volver a jugar.
 
 [Ejercicio #15](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_15.java):<br>Escribe un programa java que lea una variable de tipo entero y asígnale un valor. A continuación muestra un mensaje indicando si la variable es par o impar. Utiliza el operador condicional ( ? : ) para resolverlo. Ej: “14 es par” o “15 es impar”
 
+[Ejercicio #16](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_16.java):<br>Programa que pida por teclado la fecha de nacimiento de una persona (día, mes, año) y calcule su número de la suerte. El número de la suerte se calcula sumando el día, mes y año de la fecha de nacimiento y a continuación sumando las cifras obtenidas en la suma.
+
