@@ -33,8 +33,10 @@ public class Ejercicio_18 {
 
     public static String numeroFinal() {
         //Logica del programa.
-        String numero = numero(); //Se guardan los valores en variables
-        Integer resta = numResta();//Se guardan los valores en variables
+
+        //Se guardan los valores solicitados en variables
+        String numero = numero(); 
+        Integer resta = numResta();
 
         //Se resta en el index del String el largo del numero menos el segundo numero ingresado.
         String nFinal = numero.substring(0, numero.length()-resta);
