@@ -13,9 +13,7 @@ Repositorio con los ejercicios de las clases de JAVA.
 
 [Ejercicio #05](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_05.java):<br> Generar un número aleatorio entre el 1 y el 100, el usuario lo tiene que adivinar introduciendo el número por teclado. En el caso que el número a adivinar sea mayor al ingresado, decirle al usuario “El número que busca es mayor”, de lo contrario, “El número que busca es menor”. El programa finalizará cuando se introduzca el número correcto. Nota: usar la clase Random para generar el número aleatorio.
 
-[Ejercicio #06](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_06.java):<br> Realiza un programa que solicite el sexo (H/M) y la altura (cm) al usuario y que calcule el peso ideal.
->peso ideal mujeres = altura - 120<br>
->peso ideal hombres = altura - 110<br>
+[Ejercicio #06](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_06.java):<br> Realiza un programa que solicite el sexo (H/M) y la altura (cm) al usuario y que calcule el peso ideal.(peso ideal mujeres = altura - 120, peso ideal hombres = altura - 110)
 
 [Ejercicio #07](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_07.java):<br> Pedir un número, comprobar si es primo y preguntar si quiere introducir más (S/N) y volver a pensar.
 
