@@ -39,7 +39,6 @@ public class Ejercicio_18 {
         //Se resta en el index del String el largo del numero menos el segundo numero ingresado.
         String nFinal = numero.substring(0, numero.length()-resta);
         return nFinal;
-        
     }
 
     public static void mensajeFinal(){
