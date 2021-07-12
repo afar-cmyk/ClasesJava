@@ -38,3 +38,4 @@ de cada ronda preguntar si desea volver a jugar.
 
 [Ejercicio #17](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_17.java):<br>Programa que calcule el precio de venta de un producto conociendo el precio por unidad (sin IVA) del producto, el número de productos vendidos y el porcentaje de IVA aplicado. Los datos anteriores se leerán por teclado.
 
+[Ejercicio #18](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_18.java):<br>Programa que lea dos variables enteras N y m y le quite a N sus m últimas cifras.<br>(Por ejemplo, si N = 123456 y m = 2 el nuevo valor de N será 1234.)
