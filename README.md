@@ -42,3 +42,4 @@ de cada ronda preguntar si desea volver a jugar.
 
 [Ejercicio #19](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_19.java):<br>Programa que pase una velocidad en Km/h a m/s. La velocidad se lee por teclado.
 
+[Ejercicio #20](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_20.java):<br> Programa que lea la longitud de los catetos de un triángulo rectángulo y calcule la longitud de la hipotenusa según el teorema de Pitágoras.
