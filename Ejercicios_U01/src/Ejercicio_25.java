@@ -62,7 +62,7 @@ public class Ejercicio_25 {
         int entradaS = segundos();
         int horaPM = horaPM(entradaH);
 
-        // Comprueba si los valores ingresados son invalidos.
+        // Comprueba si los valores ingresados son inválidos.
         int error = 0;
 
         //Mensaje de comprobación.
@@ -79,21 +79,21 @@ public class Ejercicio_25 {
         if (entradaM >= 0 & entradaM <= 59){
             System.out.println("Minutos ingresados: --->Validos.");
         }else if (entradaM < 0 | entradaM > 59){
-            System.out.println("Minutos ingresados: --->Invalidos.");
+            System.out.println("Minutos ingresados: --->Inválidos.");
             error = error + 1;
         }
 
         if (entradaS >= 0 & entradaS <= 59){
             System.out.println("Segundos ingresados: --->Validos.");
         }else if (entradaS < 0 | entradaS > 59){
-            System.out.println("Segundos ingresados: --->Invalidos.");
+            System.out.println("Segundos ingresados: --->Inválidos.");
             error = error + 1;
         }
         System.out.println("----------------------------------------------");
 
-        // Mensaje final deacuerdo a el informe de errores.
+        // Mensaje final de acuerdo a el informe de errores.
         if (error > 0){
-            System.out.println("\nValores ingresados invalidos, ingrese los valores de nuevo.");
+            System.out.println("\nValores ingresados inválidos, ingrese los valores de nuevo.");
         }else {
             // Devuelve la hora en formato Standard e indica si es AM. o PM.
             System.out.printf("\nLa hora ingresada es: %1$s Horas : %2$s Minutos : %3$s Segundos "+(entradaH > 12 ? "PM." : "AM."),horaPM,entradaM,entradaS);
