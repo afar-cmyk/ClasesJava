@@ -26,14 +26,14 @@ public class Ejercicio_28 {
             // Solicita el valor que desea convertir.
             System.out.print("\nIngrese el monto que desea convertir (USD -> Cop):");
             double valorIngresado = ENTRADA().nextDouble(); // Guarda el valor en una variable.
-            double dolaresAPesos = valorIngresado * 3797.97; // Formula de conversion.
+            double dolaresAPesos = valorIngresado * 3797.97; // Formula de conversión.
             System.out.println(dolaresAPesos + " COP."); // Imprime en consola el monto en Pesos Colombianos.
 
         } else if(solicitud == 2) {
             // Solicita el valor que desea convertir.
             System.out.print("\nIngrese el monto que desea convertir (Cop -> USD):");
             double valorIngresado = ENTRADA().nextDouble(); // Guarda el valor en una variable.
-            double pesosADolares = valorIngresado * 0.000260;  // Formula de conversion.
+            double pesosADolares = valorIngresado * 0.000260;  // Formula de conversión.
             System.out.println(pesosADolares + " USD.");// Imprime en consola el monto en Dolares.
         }
     }
