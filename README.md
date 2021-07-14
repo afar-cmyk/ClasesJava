@@ -49,3 +49,5 @@ de cada ronda preguntar si desea volver a jugar.
 [Ejercicio #22](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_22.java):<br>Programa que lea un carácter por teclado y compruebe si es una letra mayúscula.
 
 [Ejercicio #23](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_23.java):<br>Programa que lea dos números por teclado y muestre el resultado de la división del primer número por el segundo. Se debe comprobar que el divisor no puede ser cero.
+
+[Ejercicio #24](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_24.java):<br>El programa lee por teclado tres números enteros y calcula y muestra el mayor de los tres.
