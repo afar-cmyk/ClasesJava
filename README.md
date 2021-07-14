@@ -48,5 +48,3 @@ de cada ronda preguntar si desea volver a jugar.
 
 [Ejercicio #22](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_22.java):<br>Programa que lea un carácter por teclado y compruebe si es una letra mayúscula.
 
-
-
