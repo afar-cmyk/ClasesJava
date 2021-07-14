@@ -37,10 +37,15 @@ public class Ejercicio_26 {
             "Diciembre"
         };
         
-        // Retorna por consola el nombre del mes correspondiente al numero ingresado 
-        // Informa el numero de días del mes. 
-        System.out.println("\nEl mes " + listaMeses[numeroEntrada-1]+ "," + " es un mes de: " + (numeroEntrada == 2 ? "28" : "31" ) + " días." );
-
+        // Condicionales conforme al número ingresado.
+        if(numeroEntrada < 1 | numeroEntrada > 12){
+            // Retorna un mensaje de error si el número ingresado no esta en el rango establecido.
+            System.out.println("¡¡Error!!, El número ingresado es menor que 1 o mayor que 12.");
+        }else{
+            // Retorna por consola el nombre del mes correspondiente al numero ingresado 
+            // Informa el numero de días del mes. 
+            System.out.println("\nEl mes " + listaMeses[numeroEntrada-1]+ "," + " es un mes de " + (numeroEntrada == 2 ? "28" : "31" ) + " días." );
+        }
     }
 
     public static void main(String[] args) {
