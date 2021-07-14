@@ -45,3 +45,8 @@ de cada ronda preguntar si desea volver a jugar.
 [Ejercicio #20](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_20.java):<br>Programa que lea la longitud de los catetos de un triángulo rectángulo y calcule la longitud de la hipotenusa según el teorema de Pitágoras.
 
 [Ejercicio #21](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_21.java):<br>Programa que lea un número entero y muestre si el número es múltiplo de 10.
+
+[Ejercicio #22](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_22.java):<br>Programa que lea un carácter por teclado y compruebe si es una letra mayúscula.
+
+
+
