@@ -56,4 +56,4 @@ de cada ronda preguntar si desea volver a jugar.
 
 [Ejercicio #26](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_26.java):<br>Programa que lea una variable entera mes y compruebe si el valor corresponde a un mes de 30 días, de 31 o de 28. Supondremos que febrero tiene 28 días. Se mostrará además el nombre del mes. Se debe comprobar que el valor introducido esté comprendido entre 1 y 12.
 
-[Ejercicio #27](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_27.java):<br>Realizar programa que muestre los números del 1 al 100 que no sean múltiplos de 3, utilizando cada una las instrucciones repetitivas (while, do while, for).
+[Ejercicio #27](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_27.java):<br>Realizar programa que muestre los números del 1 al 100 que no sean múltiplos de 3, utilizando cada una las instrucciones repetitivas</br>(while, do while, for).
