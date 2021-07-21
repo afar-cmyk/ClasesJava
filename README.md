@@ -59,3 +59,5 @@ de cada ronda preguntar si desea volver a jugar.
 [Ejercicio #27](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_27.java):<br>Realizar programa que muestre los números del 1 al 100 que no sean múltiplos de 3, utilizando cada una las instrucciones repetitivas</br>(while, do while, for).
 
 [Ejercicio #28](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_28.java):<br>Programa que pase de pesos a dólares y viceversa.
+
+[Ejercicio #29](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_29.java):<br>Mostrar los N primeros términos de la serie de Fibonacci.
