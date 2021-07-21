@@ -63,3 +63,6 @@ de cada ronda preguntar si desea volver a jugar.
 [Ejercicio #29](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_29.java):<br>Mostrar los N primeros términos de la serie de Fibonacci.
 
 [Ejercicio #30](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_30.java):<br>Leer un número N y calcular la suma de los factoriales de los números desde 0 hasta N.
+
+[Ejercicio #31](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_31.java):<br>Programa que muestre en líneas separadas lo siguiente:
+<br>ZYWXVUTSRQPONMLKJIHGFEDCBA<br>YWXVUTSRQPONMLKJIHGFEDCBA<br>WXVUTSRQPONMLKJIHGFEDCBA<br>....<br>DCBA<br>CBA<br>BA<br>A.
