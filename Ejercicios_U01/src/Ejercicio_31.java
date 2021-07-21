@@ -16,11 +16,28 @@ public class Ejercicio_31 {
     A.
     */
 
-    public static void name() {
-        
+    public static void iterarCadena() {
+        // Cadena de caracteres ingresada.
+        String cadena = "ZYWXVUTSRQPONMLKJIHGFEDCBA";
+
+        // Numero que iterará sobre la cadena de caracteres.
+        int iterador = 0;
+
+        // Agrega un salto de linea antes de imprimir la cadena de caracteres.
+        System.out.println(" ");
+
+        // Ciclo que se repetira sobre el tamaño de la cadena de caracteres.
+        for (int i = 0; i < cadena.length(); i++) {
+
+            // Imprime por consola el estado actual de la cadena
+            System.out.println(cadena.substring(iterador, cadena.length()));
+
+            // Añade 1 al contador que iterará sobre la cadena
+            iterador += 1;
+        }
     }
 
     public static void main(String[] args) {
-        
+        iterarCadena();
     }
 }
