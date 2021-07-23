@@ -5,7 +5,7 @@ public class Ejercicio_31 {
     // Solo se puede utilizar la función main() solo para hacer el llamado a las funciones que se quieren probar.
 
     /*
-    30. Programa que muestre en líneas separadas lo siguiente:
+    31. Programa que muestre en líneas separadas lo siguiente:
     ZYWXVUTSRQPONMLKJIHGFEDCBA
     YWXVUTSRQPONMLKJIHGFEDCBA
     WXVUTSRQPONMLKJIHGFEDCBA
