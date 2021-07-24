@@ -66,3 +66,5 @@ de cada ronda preguntar si desea volver a jugar.
 
 [Ejercicio #31](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_31.java):<br>Programa que muestre en líneas separadas lo siguiente:
 <br>ZYWXVUTSRQPONMLKJIHGFEDCBA<br>YWXVUTSRQPONMLKJIHGFEDCBA<br>WXVUTSRQPONMLKJIHGFEDCBA<br>....<br>DCBA<br>CBA<br>BA<br>A.
+
+[Ejercicio #32](https://github.com/afar-cmyk/ClasesJava/blob/master/Ejercicios_U01/src/Ejercicio_32.java):<br>Mostrar un contador de 5 dígitos. En lugar del dígito 3 se debe mostrar E.
